@@ -54,7 +54,7 @@ We're always looking for passionate contributors! 🤝 Whether it's for developm
 ## 📧 **Contact**
 
 If you have any questions, suggestions, or just want to talk about Rubik's Cubes or tech, feel free to contact us!  
-📧 Email: [cuby-support@example.com](mailto:cuby-support@example.com)
+Discord: [quentinou](https://discordapp.com/users/476476029595287552)
 
 ---
 
