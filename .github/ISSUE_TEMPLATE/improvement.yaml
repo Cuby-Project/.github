@@ -1,9 +1,8 @@
 name: Improvement to existing functionality
 description: Suggest an improvement to something that already exists
-title: ""
 labels: ["improvement", "needs triage"]
-assignees: ""
-project: "Cuby-board/2"
+assignees: []
+projects: "Cuby-board/2"
 
 body:
     - type: textarea
@@ -26,28 +25,24 @@ body:
 
     - type: textarea
       id: solution
-      attributes:s
+      attributes:
           label: Describe the solution you'd like
           description: A clear and concise description of what you want to happen.
-          render: markdown
 
     - type: textarea
       id: alternatives
       attributes:
           label: Describe alternatives you've considered
           description: A clear and concise description of any alternative solutions or features you've considered.
-          render: markdown
 
     - type: textarea
       id: details
       attributes:
           label: Details
           description: Details to understand how this task should be completed or carried out. What are the next steps? Add any other context or screenshots about the feature request here.
-          render: markdown
 
     - type: textarea
       id: outcome
       attributes:
           label: Outcome
           description: One sentence to describe what the end result will be once this ticket is complete.
-          render: markdown
