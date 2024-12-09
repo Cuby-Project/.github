@@ -20,8 +20,7 @@ Track my progress, ongoing tasks, and upcoming features! This board gives you an
 
 ## 🏗️ **Overview of the architecture**
 
-![image](https://github.com/user-attachments/assets/c72a3a51-bfc0-4e3d-9cde-6ae79cdb73dd)
-
+![image](https://github.com/user-attachments/assets/35ab8c74-f719-4af9-bfc9-f387de7ac07e)
 
 ---
 
