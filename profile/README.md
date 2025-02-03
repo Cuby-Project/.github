@@ -18,12 +18,6 @@ Track my progress, ongoing tasks, and upcoming features! This board gives you an
 
 ---
 
-## 🏗️ **Overview of the architecture**
-
-![image](https://github.com/user-attachments/assets/35ab8c74-f719-4af9-bfc9-f387de7ac07e)
-
----
-
 ## 📧 **Contact**
 
 If you have any questions, suggestions, or just want to talk about Rubik's Cubes or tech, feel free to contact me!  
