@@ -2,23 +2,86 @@
 
 Welcome to the **Cuby Project** organization, a suite of tools designed to enhance the experience of Rubik's Cube enthusiasts! 🧩
 
-## 🌍 **Global Project Overview**
-[Cuby Project Board](https://github.com/orgs/Cuby-Project/projects/2)  
-Track my progress, ongoing tasks, and upcoming features! This board gives you an overview of the development of various modules and APIs.
+## 📝 Description
 
----
+Welcome to the Cuby Project organization! This is a comprehensive suite of tools designed to enhance the experience of Rubik's Cube enthusiasts. Our ecosystem includes desktop applications, mobile apps, and various APIs that work together to provide a complete solution for cube solving, timing, learning, and exploration.
 
-## 🔍 **How to Contribute**
+## 🎯 Project Overview
 
-1. **Clone the project**: `git clone https://github.com/Cuby-Project/[repo-name].git`
-2. **Create a branch**: `git checkout -b feature/new-feature`
-3. **Make a commit**: `git commit -m 'Added a new feature'`
-4. **Push**: `git push origin feature/new-feature`
-5. **Open a Pull Request** 🎉
+### Core Applications
 
----
+- [Cuby Client](https://github.com/Cuby-Project/Cuby-Client) - Main desktop application built with ElectronJS
+- [Cuby Mobile App](https://github.com/Cuby-Project/Cuby-mobile-app) - Mobile version built with React Native
 
-## 📧 **Contact**
+### APIs and Services
 
-If you have any questions, suggestions, or just want to talk about Rubik's Cubes or tech, feel free to contact me!  
-Discord: [quentinou](https://discordapp.com/users/476476029595287552)
+- [Cuby Recognition API](https://github.com/Cuby-Project/Cuby-recognition-API) - Color detection and cube state recognition
+- [Cuby Solve API](https://github.com/Cuby-Project/Cuby-solve-API) - Cube solving algorithm implementation
+- [Cuby Capture API](https://github.com/Cuby-Project/Cuby-capture-API) - Cube state capture and processing
+- [Cuby Capture Website](https://github.com/Cuby-Project/Cuby-capture-website) - Web interface for cube capture
+
+### Infrastructure
+
+- [Cuby Environment](https://github.com/Cuby-Project/Cuby-environment) - Deployment and infrastructure configuration
+
+## 🌟 Features
+
+- ⏱️ Timer with statistics
+- 🔄 Scramble generator
+- 📊 Detailed analytics
+- 🎯 Multiple cube support
+- 🤖 Auto-solve capabilities
+- 📱 Cross-platform support
+- 🌐 Web and mobile interfaces
+- 🔒 Secure data handling
+
+## 🚀 Getting Started
+
+1. Choose the component you want to use:
+
+   - For desktop users: [Cuby Client](https://github.com/Cuby-Project/Cuby-Client)
+   - For mobile users: [Cuby Mobile App](https://github.com/Cuby-Project/Cuby-mobile-app)
+   - For web users: [Cuby Capture Website](https://github.com/Cuby-Project/Cuby-capture-website)
+2. Follow the installation instructions in the respective repository's README.
+
+## 🤝 Contributing
+
+I welcome contributions from the community! Here's how you can help:
+
+1. Fork the repository you want to contribute to
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📊 Project Status
+
+Track my progress on the [Cuby Project Board](https://github.com/orgs/Cuby-Project/projects/2)
+
+## 🔮 Roadmap
+
+- Enhanced statistics and analytics
+- Additional cube type support
+- Improved mobile experience
+- Performance optimizations
+- Extended API capabilities
+- Social features
+
+## 📞 Support
+
+- [Discord](https://discordapp.com/users/476476029595287552) - Chat with me
+- [GitHub Issues](https://github.com/Cuby-Project/Cuby-Project/issues) - Report bugs or request features
+- [Project Board](https://github.com/orgs/Cuby-Project/projects/2) - Track development progress
+
+## 📄 License
+
+All projects in the Cuby ecosystem are licensed under the MIT License. See individual repositories for details.
+
+## 👨‍💻 Developer
+
+- *quentinformatique* - Developer
+
+## 🌐 Links
+
+- [Organization](https://github.com/Cuby-Project)
+- [Project Board](https://github.com/orgs/Cuby-Project/projects/2)
